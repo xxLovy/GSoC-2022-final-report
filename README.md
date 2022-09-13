@@ -4,7 +4,7 @@
 
 **Organization: Center for Research in Open Source Software (CROSS)**
 
-## ![cross-logo-wide](/Users/xuxuan/Desktop/GitHub final report/cross-logo-wide.png)
+## ![cross-logo-wide](cross-logo-wide.png)
 
 ## Introduction
 
