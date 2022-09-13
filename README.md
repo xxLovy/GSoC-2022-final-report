@@ -4,7 +4,7 @@
 
 **Organization: Center for Research in Open Source Software (CROSS)**
 
-## ![cross-logo-wide](cross-logo-wide.png)
+## ![cross-logo-wide](/Users/xuxuan/Desktop/GitHub final report/cross-logo-wide.png)
 
 ## Introduction
 
@@ -58,7 +58,7 @@ es_id.close()
 
 + Improved my python development
 + Improved my problem-solving skills
-+ Learned the actual development process
++ Learned the actual process while developing a software
 + Learned the method of embedding C language library in python and the use of some glue language
 
 ## Team
@@ -86,5 +86,4 @@ es_id.close()
 
 ## Thank you
 
-The past few months have been no less than fulfilling! I had a lot of fun and learned a lot duration this time because of the endless support of my awesome mentors. Since I'm not a naive speaker, my mentors were very patient with me when communicating with my tutor. This journey is also a very great opportunity for me to improve my English. The guidance provided for setting up my development enviroment helping me solve complicated problems will surely help me in becoming a better developer.
-
+The past few months have been no less than fulfilling! I had a lot of fun and learned a lot duration this time because of the endless support of my awesome mentors. Since I'm not a naive speaker, my mentors were very patient with me when communicating with my tutor. This journey is also a very great opportunity for me to improve my English. This journey will surely help me in becoming a better developer.
